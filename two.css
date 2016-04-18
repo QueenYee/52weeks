@@ -1,0 +1,33 @@
+.img-responsive
+{margin:auto;
+    
+}
+
+ul
+{
+align-content: center;
+  margin:auto;
+  
+}
+
+img
+{
+  width:200px;
+  height:200px;
+}
+.container 
+{margin-top: 40px;
+    border:10px solid red;
+background-color: #ffffff;    
+text-align: center;
+color:#ffffff;
+border-radius:5px}
+
+.container .span5
+{
+    background-color: #ffffff;
+}
+
+button 
+{background-color:black;
+}
